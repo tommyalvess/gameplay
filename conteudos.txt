@@ -1,0 +1,5 @@
+Comando para habilitar o env
+yarn add dotenv babel-plugin-inline-dotenv
+
+Lib para gerar id 
+yarn add react-native-uuid
